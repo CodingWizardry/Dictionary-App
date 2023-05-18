@@ -1,2 +1,2 @@
 # Dictionary-App
-Creating a App using HTML, CSS &amp; JAVASCRIPt
+Creating a App using HTML, CSS &amp; JAVASCRIPT
